@@ -5,7 +5,7 @@ metadata:
   title: ArgoCD
   description: Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. We use ArgoCD for the deployment of this showcase.
   links:
-    - url: https://argocd.operate-first.cloud/
+    - url: https://openshift-gitops-server-openshift-gitops.apps.rhosd-07.hacbs.ccitredhat.com/
       title: Instance of ArgoCD
       icon: web
     - url: https://argo-cd.readthedocs.io/en/stable/
