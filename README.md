@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Our purpose for this project is to first showcase the value of the plugins that we have created. These include the ArgoCD, GitHub Issues, Keycloak, Kubernetes, OCM, Tekton, and Topology plugin. Each of these plugins have been hand picked or created by the Janus IDP team for their practicality.
+Our test purpose for this project is to first showcase the value of the plugins that we have created. These include the ArgoCD, GitHub Issues, Keycloak, Kubernetes, OCM, Tekton, and Topology plugin. Each of these plugins have been hand picked or created by the Janus IDP team for their practicality.
 
 The second purpose is to demonstrate the power of an internal developer portal using Backstage as the solution. Backstage is an application that can simplify the onboarding process for organizations with plenty of customization through the use of their plugin system.
 
